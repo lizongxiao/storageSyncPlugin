@@ -1,0 +1,33 @@
+{
+    "name": "pinia-sync-plugin",
+    "version": "1.0.0",
+    "description": "A Pinia plugin to sync data between different windows",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "echo \"No tests yet\""
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "@types/node": "^22.10.5",
+        "pinia": "^2.3.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.0.0"
+    },
+    "keywords": [
+        "pinia",
+        "plugin",
+        "data-sync",
+        "vue"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/your-username/pinia-sync-plugin.git"
+    },
+    "bugs": {
+        "url": "https://github.com/your-username/pinia-sync-plugin/issues"
+    },
+    "homepage": "https://github.com/your-username/pinia-sync-plugin#readme"
+}
